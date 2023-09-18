@@ -1,7 +1,5 @@
 # Buddy Bot: Chatbot de Apoio Emocional 🤖❤️
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-custom-subdomain>.streamlit.app)
-
 ## Descrição
 
 O Buddy Bot é um assistente virtual projetado para fornecer apoio emocional. Em momentos de estresse, solidão ou qualquer tipo de desconforto emocional, Buddy está aqui para conversar.
@@ -41,3 +39,4 @@ Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.m
 - A todos que forneceram feedback e ajudaram a testar o chatbot.
 - À comunidade open-source por fornecer recursos e inspiração.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://<your-custom-subdomain>.streamlit.app)
