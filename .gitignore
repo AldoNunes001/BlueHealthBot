@@ -167,10 +167,10 @@ cython_debug/
 # Poetry local configuration file - https://python-poetry.org/docs/configuration/#local-configuration
 poetry.toml
 
-.streamlit/
+# .streamlit/
 .streamlit/secrets.toml
 secrets.toml
-*.toml
+# *.toml
 app.py
 chat_app copy.py
 favicon.png

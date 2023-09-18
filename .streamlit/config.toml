@@ -1,0 +1,5 @@
+[browser]
+showRunOnSave = false
+
+[theme]
+show_streamlit_logo = false
