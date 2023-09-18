@@ -10,10 +10,12 @@ SYSTEM_MSG = [
 
 st.set_page_config(page_title='Buddy Bot', page_icon='🤖')
 
-st.markdown("""
-<h1 style='display: inline; font-size: 32px;'>🤖 Buddy Bot</h1>
-<span style='font-size: 20px; margin-left: 15px;'>Você não está sozinho(a)!</span>
-""", unsafe_allow_html=True)
+st.title('🤖 Buddy Bot')
+st.subheader('Você não está sozinho!')
+# st.markdown("""
+# <h1 style='display: inline; font-size: 32px;'>🤖 Buddy Bot</h1>
+# <span style='font-size: 20px; margin-left: 15px;'>Você não está sozinho(a)!</span>
+# """, unsafe_allow_html=True)
 
 with st.expander("Aviso Legal"):
     st.write(

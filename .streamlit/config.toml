@@ -3,3 +3,6 @@ showRunOnSave = false
 
 [theme]
 show_streamlit_logo = false
+
+[client]
+toolbarMode = "minimal"
