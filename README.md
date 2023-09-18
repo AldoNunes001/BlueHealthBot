@@ -24,7 +24,7 @@ O Buddy Bot é um chatbot simples desenvolvido usando o framework Streamlit para
 
 - [Aldo Nunes](https://github.com/AldoNunes001)
 - [Daniel Correia](https://github.com/danielcorreia-dev)
-- [Gustavo Soares](https://github.com/gusvasconcelos)
+- [Gustavo Vasconcelos](https://github.com/gusvasconcelos)
 
 ## Contribuições
 
